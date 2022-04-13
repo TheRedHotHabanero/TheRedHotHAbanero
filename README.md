@@ -22,7 +22,7 @@ There is my [CV](https://drive.google.com/file/d/1kuNJ10QK-2ZYYKsOuY00lRO1W8McBN
 ## Languages
   * ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   * ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  * ![Alloy]
+  * Alloy
 
 ## Helpful stuff
   * ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
