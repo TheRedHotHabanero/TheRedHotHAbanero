@@ -5,7 +5,7 @@ I am Karina Lirisman. Study in MIPT DREC. Mail: [karinalirisman@gmail.com](mailt
 There is my [CV](https://drive.google.com/file/d/1kuNJ10QK-2ZYYKsOuY00lRO1W8McBNWf/view?usp=sharing)
 
 ## Education
-  * BSc. Applied math and physics in Moscow Institute of Physics and Technology. Undergraduated.
+  * BSc. Applied math and physics in Moscow Institute of Physics and Technology. Undergraduated. CGPA: 8.15/10
 
 ## Experience
   * "Engineering approach to development SW/HW. Model-checking, model-finding methods". MIPT course, Lecturer - V. Dyadov, Kaspersky.
