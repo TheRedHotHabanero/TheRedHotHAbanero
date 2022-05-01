@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Karina Lirisman. Study in MIPT DREC. Mail: [karinalirisman@gmail.com](mailto:karinalirisman@gmail.com).
+I am Karina Lirisman. Study at MIPT DREC. Mail: [karinalirisman@gmail.com](mailto:karinalirisman@gmail.com).
 
 There is my [CV](https://drive.google.com/file/d/1kuNJ10QK-2ZYYKsOuY00lRO1W8McBNWf/view?usp=sharing)
 
