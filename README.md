@@ -10,6 +10,7 @@ There is my [CV](https://drive.google.com/file/d/1kuNJ10QK-2ZYYKsOuY00lRO1W8McBN
 ## Experience
   * "Engineering approach to development SW/HW. Model-checking, model-finding methods". MIPT course, Lecturer - V. Dyadov, Kaspersky.
   * "Uses and applications of C++ language". MIPT course. Lecturer – K. Vladimirov, Intel.
+  * "C++ development basics. White belt". MIPT & Yandex course on Coursera.
 
 ## Projects
   * [List-model](https://github.com/TheRedHotHabanero/list_model). Model of a static singly linked list on Alloy with the operation of joining two lists with time reference.
