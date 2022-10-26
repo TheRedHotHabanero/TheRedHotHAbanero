@@ -1,11 +1,11 @@
 # Hi there 👋
 
-I am Karina Lirisman. Study at MIPT DREC. Mail: [karinalirisman@gmail.com](mailto:karinalirisman@gmail.com).
+Karina Lirisman. MIPT DREC 3rd year student. Mail: [karinalirisman@gmail.com](mailto:karinalirisman@gmail.com).
 
 There is my [CV](https://drive.google.com/file/d/1kuNJ10QK-2ZYYKsOuY00lRO1W8McBNWf/view?usp=sharing)
 
 ## Education
-  * BSc. Applied math and physics in Moscow Institute of Physics and Technology. Undergraduated. CGPA: 8.15/10
+  * BSc. Applied math and physics in Moscow Institute of Physics and Technology. Undergraduated. CGPA: 8.2/10
 
 ## Experience
   * "Engineering approach to development SW/HW. Model-checking, model-finding methods". MIPT course, Lecturer - V. Dyadov, Kaspersky.
@@ -17,8 +17,7 @@ There is my [CV](https://drive.google.com/file/d/1kuNJ10QK-2ZYYKsOuY00lRO1W8McBN
   * [Tree-model](https://github.com/TheRedHotHabanero/tree_mode). Static model of a classical tree on Alloy.
   * [T02TREE](https://github.com/ILAB-2ndYEAR/T02TREE). Red-black tree with balancing and rendering.
   * [The Ark](https://github.com/TheRedHotHabanero/the_ark). Spaceship of generations. Created by a team of students as part of a training course in computer science from K. A. Beklemisheva.
-  * [MIPT Navigator](https://github.com/TheRedHotHabanero/MIPT_navigator). A funny navigator for MIPT applicants. Created by a small team of students as a first-year final project.
-  * [The Lion King Maze](https://github.com/TheRedHotHabanero/mipt/tree/main/lion_king_maze). The implementation of one of the mini-games based on the game ”The Lion King 2: Simba’s Pride”. Created as a final project in the 1st semester.
+  * [AAL](https://github.com/TheRedHotHabanero/AAL) Project on theoretical mechanics, Lyapunov's theory of stability. Lyapunov fractals.
 
 ## Languages
   * ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
